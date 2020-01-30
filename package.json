@@ -1,0 +1,14 @@
+{
+  "name": "johny-five_node",
+  "version": "1.0.0",
+  "description": "johny-five node iot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fast-linker",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.3.1"
+  }
+}
